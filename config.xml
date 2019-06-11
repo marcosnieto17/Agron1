@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.marcosnieto.GuíaUNLaR" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Electro Electrónica UNLaR</name>
+    <name>Agronómica UNLaR</name>
     <description>
        Agronómica UNLaR es una aplicación para gestionar la carrera de Ingeniería Agronómica de la UNLaR, con ella podes acceder al plan de estudios, programas de cátedras, horarios de clases, calendarios y apuntes de cátedras entre otros contenidos.
     </description>
